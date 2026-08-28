@@ -1,5 +1,7 @@
 # devto
 
+[![OpenRoots ORA 2.3](https://openroots.org/badge/ora.svg)](https://openroots.org/licenses/ora/2.3)
+
 Public archive of cover banners for Mirza Iqbal's dev.to articles.
 
 Each banner is generated locally by an adaptive design system, then committed
